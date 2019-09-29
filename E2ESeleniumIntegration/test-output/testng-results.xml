@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56885" started-at="2019-09-29T14:05:20Z" finished-at="2019-09-29T14:06:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="56885" started-at="2019-09-29T14:05:20Z" finished-at="2019-09-29T14:06:17Z">
+      <class name="webmail.TC_002">
+        <test-method status="PASS" signature="loginWebMail()[pri:0, instance:webmail.TC_002@5d5eef3d]" name="loginWebMail" duration-ms="16898" started-at="2019-09-29T19:35:47Z" finished-at="2019-09-29T19:36:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWebMail -->
+      </class> <!-- webmail.TC_002 -->
+      <class name="webmail.TC_001">
+        <test-method status="PASS" signature="loginWebMail()[pri:0, instance:webmail.TC_001@7dc7cbad]" name="loginWebMail" duration-ms="27367" started-at="2019-09-29T19:35:20Z" finished-at="2019-09-29T19:35:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWebMail -->
+      </class> <!-- webmail.TC_001 -->
+      <class name="webmail.TC_003">
+        <test-method status="PASS" signature="loginWebMail()[pri:0, instance:webmail.TC_003@5419f379]" name="loginWebMail" duration-ms="12594" started-at="2019-09-29T19:36:04Z" finished-at="2019-09-29T19:36:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWebMail -->
+      </class> <!-- webmail.TC_003 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
