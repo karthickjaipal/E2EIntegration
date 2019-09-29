@@ -6,6 +6,7 @@
       <class name="webmail.TC_001"/>
       <class name="webmail.TC_002"/>
       <class name="webmail.TC_003"/>
+      <class name="webmail.TC_004"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
